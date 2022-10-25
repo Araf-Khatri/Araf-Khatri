@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Araf-Khatri
 - 👀 I’m interested in Full-Stack Development
 - 🌱 I’m currently learning NodeJS
-- 💞️ I’m looking to collaborate on Front-End projects which include javascript frameworks like ReactJS or DOM manipulation.
+- 💞️ I’m looking to collaborate on Front-End projects which include javascript frameworks like ReactJS or DOM manipulation
 - 📫 How to reach me arafkhatri0@gmail.com
 
 <!---
