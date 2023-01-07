@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Araf-Khatri
 - 👀 I’m interested in Full-Stack Development
-- 🌱 I’m currently learning NodeJS, MongoDB, Express
-- 💞️ I’m looking to collaborate on Front-End projects which include javascript frameworks like ReactJS or DOM manipulation
+- 🌱 I’m currently learning DBMS, Heap, & Graphs.
+- 💞️ I’m looking to collaborate on Full-stack projects which include MERN stack, javascript, Python, HTML/CSS & PUG.
 - 📫 How to reach me arafkhatri0@gmail.com
 
 <!---
