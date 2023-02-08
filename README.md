@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full-Stack Development
 - 🌱 I’m currently learning DBMS, Heap, & Graphs.
 - 💞️ I’m looking to collaborate on Full-stack projects which include MERN stack, javascript, Python, HTML/CSS or PUG.
-- 📫 How to reach me arafkhatri0@gmail.com
+- 📫 You can reach me at arafkhatri0@gmail.com
 
 <!---
 Araf-Khatri/Araf-Khatri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
