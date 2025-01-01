@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Araf-Khatri
 - 👀 I’m interested in Full-Stack Development
-- 🌱 I’m currently learning DBMS, Heap, & Graphs.
+- 🌱 I’m currently learning CS core subjects.
 - 💞️ I’m looking to collaborate on Full-stack projects which include MERN stack, javascript, Python, HTML/CSS or PUG.
 - 📫 You can reach me at arafkhatri0@gmail.com
 
