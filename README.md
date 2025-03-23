@@ -1,4 +1,4 @@
-- ### 👋 Hi, I’m @Araf-Khatri  
+- 👋 Hi, I’m @Araf-Khatri  
 - 👀 I’m interested in Full-Stack Development  
 - 💼 I'm currently working at Amaha (formerly InnherHour) as a Frontend Developer  
 - 🏆 I have 1.5+ years of work experience
